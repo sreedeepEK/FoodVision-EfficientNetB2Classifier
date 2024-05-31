@@ -1,8 +1,10 @@
 # Foodvision - Image classification 
-Foodvision empowers you to see your food, and know your food with lightning-fast image classification. Utilizing the powerful EfficientNetB2 model, it identifies 101 diverse food categories instantly.
+
 
 See [FoodVision](https://huggingface.co/spaces/sreedeepEK/Foodvision) in real-time on Hugging Face Spaces
 
+## Overview
+Foodvision empowers you to see your food, and know your food with lightning-fast image classification. Utilizing the powerful EfficientNetB2 model, it identifies 101 diverse food categories instantly.
 
 ## Contributing
 Contributions are welcome! If you find issues or want to add new features, please submit a pull request.
